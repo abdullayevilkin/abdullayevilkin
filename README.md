@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdullayevilkin
-- 👀 I’m interested in javascript, .net, python
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m @abdullayevilkin;
+- 👀 I’m interested in javascript, .net;
+- 🌱 I’m currently learning C#, .Net, Xamarin;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdullayevilkin1997@gmail.com
 
